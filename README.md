@@ -1,7 +1,7 @@
 - 🌎 Russia
-- 📍 Rostov-on-Don
-- 📅 17 y.o.
-- 👨🏻‍🎓 SFEDU student
+- 📍 Kazan
+- 📅 19 y.o.
+- 👨🏻‍🎓 ITIS student
 
 <!---
 vSMFDv/vSMFDv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
